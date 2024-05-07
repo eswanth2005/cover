@@ -147,7 +147,7 @@ SEC
 
 ## OUTPUT:
 
-![alt text](<Screenshot (26).png>)
+![Screenshot (49)](https://github.com/eswanth2005/cover/assets/164656722/c7a40b19-9c33-4b30-b94f-0d1fefed7763)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
