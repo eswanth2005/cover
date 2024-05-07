@@ -131,7 +131,7 @@ HTML and CSS Combined with Django Architecture
 </div>
 <img src="myphoto.png" style="margin-left: 30%; width: 100px;">
 <div class="author">
-<p><b>Rehan Jeyan</b></p>
+<p><b>Eswanth kumar</b></p>
 </div>
 <div class="pub">
 SEC
